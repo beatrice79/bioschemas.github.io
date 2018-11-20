@@ -482,4 +482,14 @@ list:
     bsc_profile: Dataset
     bsc_ver: 0.1
     comments:
+-    
+    name: PROSITE - Unirules
+    highlight: 1 dataset
+    example_URL: https://prosite.expasy.org/cgi-bin/unirule/unirule_browse.cgi
+    resource_URL: https://prosite.expasy.org
+    schema_org: Dataset
+    bsc_profile: Dataset
+    bsc_ver: 0.1
+    comments: same as HAMAP - Unirules but for PROSITE Rules (ProRules)
+-
 ---
